@@ -22,4 +22,15 @@
 2.4
 ![alt text](<Screenshot 2025-06-12 142147.png>)
 
+3.1
+![alt text](<Screenshot 2025-06-12 142831.png>)
+
+3.2
+![alt text](<Screenshot 2025-06-12 144818.png>)
+
+4.1
+![alt text](<Screenshot 2025-06-12 145440.png>)
+
+4.2
+![alt text](<Screenshot 2025-06-12 152625.png>)
 
